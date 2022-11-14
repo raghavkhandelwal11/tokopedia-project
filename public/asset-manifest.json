@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.028a39fe.css",
+    "main.js": "/static/js/main.21149092.js",
+    "static/js/787.b3fd9875.chunk.js": "/static/js/787.b3fd9875.chunk.js",
+    "static/media/tokopedia.png": "/static/media/tokopedia.233504be275202cb26fc.png",
+    "static/media/tokopedia-text.png": "/static/media/tokopedia-text.7b7c984ccc1f5c8da8f3.png",
+    "index.html": "/index.html",
+    "main.028a39fe.css.map": "/static/css/main.028a39fe.css.map",
+    "main.21149092.js.map": "/static/js/main.21149092.js.map",
+    "787.b3fd9875.chunk.js.map": "/static/js/787.b3fd9875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.028a39fe.css",
+    "static/js/main.21149092.js"
+  ]
+}

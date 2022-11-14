@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Raghav1",
+    "email": "raghav1@gmail.com",
+    "password": "$2b$10$zKgEJTx6y5qIwKsBChuf9uLPGG.wt/ab/16OS.nAuskf6yF.sHIMu",
+    "phone": "7728091995"
+  },
+  {
+    "id": 1,
+    "name": "Raghav2",
+    "email": "raghav2@gmail.com",
+    "password": "$2b$10$MFNpP0c89HHduT7u1bGcYuiC5rd9Ac6hjwYFJAp7/z79bdnTLO4RG",
+    "phone": "7728091992"
+  },
+  {
+    "id": 2,
+    "name": "Raghav3",
+    "email": "raghav3@gmail.com",
+    "password": "$2b$10$4nshe7AVicST1iooyRj/ouiNoGoelSdGlhpasLIbpawFm/T3Ic4Gi",
+    "phone": "9352099679"
+  },
+  {
+    "id": 3,
+    "name": "Raghav4",
+    "email": "raghav4@gmail.com",
+    "password": "$2b$10$kFb8P7nQ1ujnaPm1T6GfK.3r3Q534KwStDX4.V0YtesLKPXyCt9jW",
+    "phone": "9352099679"
+  },
+  {
+    "id": 0,
+    "name": "RK",
+    "email": "raghav7@gmail.com",
+    "password": "$2b$10$brjD0kfNY3FVZ55Tiz3sveM9u5Nq2.26ZEB.glBc8fmw8yJXu3tn.",
+    "phone": "09352099679"
+  }
+]
